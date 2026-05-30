@@ -9,14 +9,14 @@ A professional Data Science project focused on **Iris Flower Classification** us
 
 ---
 
-## 🎯 Aim & Objectives
+## 🎯 Problem statement
 - Conduct **Exploratory Data Analysis (EDA)** to understand flower features (Sepal/Petal length and width).
 - Create high-quality visual representations of class distributions and feature correlations.
 - Train, optimize, and evaluate a **K-Nearest Neighbors (KNN)** classifier to predict Iris species (Setosa, Versicolor, Virginica).
 
-## 📊 Dataset Used
+## 📊 Dataset details
 - **Dataset:** Iris Flower Dataset
-- **Source:** Automatically loaded directly from an online raw CSV source. No manual upload or local storage is required.
+- **Source:** Kaggle (Automatically loaded directly from an online raw CSV source. No manual upload or local storage is required.)
 
 ## 🛠️ Tech Stack & Libraries
 - **Core:** Python
@@ -49,11 +49,14 @@ Run all cells in the notebook to view visualizations, model metrics, and classif
 
 ---
 
-## 📈 Methodology & Key Results
+## 📈 Approach
 1. **EDA & Visualizations:** Utilized Seaborn pairplots and correlation heatmaps to observe clean clustering and linear separation between Iris species.
 2. **Train-Test Split:** Used standard stratified splits to maintain class distributions.
-3. **Model Selection & Tuning:** Implemented K-Nearest Neighbors (KNN) achieving an outstanding classification accuracy.
-4. **Evaluation Metrics:** Provided detailed Confusion Matrix and Classification Report (Precision, Recall, F1-Score).
+3. **Model Selection & Tuning:** Implemented K-Nearest Neighbors (KNN).
+
+## 🏆 Results
+- **Performance:** Achieved an outstanding classification accuracy.
+- **Evaluation Metrics:** Provided detailed Confusion Matrix and Classification Report (Precision, Recall, F1-Score).
 
 ---
 *Developed by Yug Yadav*
